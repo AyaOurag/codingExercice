@@ -1,0 +1,21 @@
+{
+  "name": "codingexercice",
+  "version": "1.0.0",
+  "description": "API gestion product category order mySQL & nodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "nodeJS",
+    "mySQL"
+  ],
+  "author": "Aya Ourag",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
